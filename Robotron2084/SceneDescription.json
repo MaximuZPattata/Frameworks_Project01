@@ -1,0 +1,236 @@
+{
+	"ModelProperties": [
+		{
+			"ModelName": "Wall",
+			"FilePath": "Cube_1x1x1_xyz_n_rgba.ply",
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bUseManualColors": true,
+			"Color": [0.80, 0.0, 0.0],
+			"MeshType": "Walls"
+		},
+		{
+			"ModelName": "Player_UP_01",
+			"FilePath": "player1_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_UP_02",
+			"FilePath": "player2_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_UP_03",
+			"FilePath": "player3_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_DOWN_04",
+			"FilePath": "player4_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_DOWN_05",
+			"FilePath": "player5_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_DOWN_06",
+			"FilePath": "player6_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_LEFT_07",
+			"FilePath": "player7_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_LEFT_08",
+			"FilePath": "player8_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_LEFT_09",
+			"FilePath": "player9_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_RIGHT_10",
+			"FilePath": "player10_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_RIGHT_11",
+			"FilePath": "player11_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Player_RIGHT_12",
+			"FilePath": "player12_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Player"
+		},
+		{
+			"ModelName": "Bullet_UP",
+			"FilePath": "Bullet_Up_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_DOWN",
+			"FilePath": "Bullet_Down_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_LEFT",
+			"FilePath": "Bullet_Left_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_RIGHT",
+			"FilePath": "Bullet_Right_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_UP_LEFT",
+			"FilePath": "Bullet_Up_Left_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_DOWN_LEFT",
+			"FilePath": "Bullet_Down_Left_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_UP_RIGHT",
+			"FilePath": "Bullet_Up_Right_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Bullet_DOWN_RIGHT",
+			"FilePath": "Bullet_Down_Right_n_rgba.ply",
+			"Scale": 0.45,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Bullet"
+		},
+		{
+			"ModelName": "Grunt_1",
+			"FilePath": "Grunt_1_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Grunt"
+		},
+		{
+			"ModelName": "Grunt_2",
+			"FilePath": "Grunt_2_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Grunt"
+		},
+		{
+			"ModelName": "Grunt_3",
+			"FilePath": "Grunt_3_n_rgba.ply",
+			"Scale": 0.1,
+			"bMeshLightsOn": true,
+			"bUseManualColors": false,
+			"Color": [1.0, 1.0, 1.0],
+			"MeshType": "Grunt"
+		}
+	],
+	
+	"LightProperties": {
+		"LightId": 0,
+		"bLightOn": true, 
+		"LightType": 2.0,
+		"LinearAttenuation": 0.1,
+		"QuadraticAttenuation": 0.0,
+		"InnerAngle": 0.50,
+		"OuterAngle": 1.0,
+		"LightPosition": [0.0, 30.0, 0.0],
+		"LightDirection": [0.0, -1.0, 0.0],
+		"LightColor": [1.0, 1.0, 1.0]
+		},
+	"CameraProperties": {
+			"CameraPosition": [0.0, 0.0, 500.0]
+		}
+}
